@@ -1,0 +1,10 @@
+.sample-container {
+  font-family: sans-serif;
+  padding: 30px;
+  .sample-view {
+    background: $black;
+    color: invert($black);
+    display: block;
+    padding: 15px;
+  }
+}
